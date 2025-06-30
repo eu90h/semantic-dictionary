@@ -1,0 +1,10 @@
+pytest>=6.0.0
+flake8>=4.0.0
+black>=22.0.0
+isort>=5.0.0
+mypy>=0.900
+twine>=3.0.0
+build>=0.7.0
+sentence-transformers>=2.0.0
+transformers>=4.0.0
+torch>=1.7.0 
